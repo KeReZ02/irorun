@@ -1,63 +1,105 @@
 @media (max-width:1440px ) {
     .container{
         width: 90%;
-        border: 1px solid;
-
+    }
+    .block_colors1{
+        width: 390px;
+    }
+    .block_colors2{
+        width: 390px;
+    }
+    .block_colors3{
+        width: 390px;
     }
 }
 @media (max-width:1200px ) {
-    .container{
-        width: 90%;
-        border: 1px solid;
 
+    .block_colors1{
+        width: 320px;
+    }
+    .block_colors2{
+        width: 320px;
+    }
+    .block_colors3{
+        width: 320px;
     }
 }
 @media (max-width:1024px ) {
-    .container{
-        width: 90%;
-        border: 1px solid;
 
-    }
+    .block_colors1{
+    width: 268px;
+}
+    .block_colors2{
+    width: 268px;
+}
+    .block_colors3{
+    width: 268px;
+}
 }
 @media (max-width:992px ) {
-    .container{
-        width: 90%;
 
-
+    .block_colors1{
+        width: 268px;
+    }
+    .block_colors2{
+        width: 268px;
+    }
+    .block_colors3{
+        width: 268px;
     }
 }
 @media (max-width:768px ) {
-    .container{
-        width: 70%;
-
-
+    .block_colors1{
+        width: 265px;
+    }
+    .block_colors2{
+        width: 265px;
+    }
+    .block_colors3{
+        width: 265px;
     }
 }
 @media (max-width:576px ) {
-    .container{
-        width: 90%;
-
-
+    .block_colors1{
+        width: 262px;
+    }
+    .block_colors2{
+        width: 262px;
+    }
+    .block_colors3{
+        width: 262px;
     }
 }
 @media (max-width:414px ) {
-    .container{
-        width: 90%;
-
-
+    .block_colors1{
+        width: 260px;
+    }
+    .block_colors2{
+        width: 260px;
+    }
+    .block_colors3{
+        width: 260px;
     }
 }
 @media (max-width:375px ) {
-    .container{
-        width: 90%;
-
-
+    .block_colors1{
+        width: 255px;
+    }
+    .block_colors2{
+        width: 255px;
+    }
+    .block_colors3{
+        width: 255px;
     }
 }
 @media (max-width:320px ) {
-    .container{
-        width: 90%;
-
-
+    .block_colors1{
+        width: 250px;
+    }
+    .block_colors2{
+        width: 250px;
+    }
+    .block_colors3{
+        width: 250px;
     }
 }
